@@ -1,0 +1,1 @@
+Best top 1 accuracy 23.49 at epoch 86, best top 5 accuracy 41.42 at epoch 98
